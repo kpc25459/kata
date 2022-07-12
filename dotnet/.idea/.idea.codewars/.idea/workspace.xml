@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b2d5b55-6719-42b2-85f8-fb8e4876150d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/katas/Sudoku.cs" beforeDir="false" afterPath="$PROJECT_DIR$/katas/Sudoku.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/27/f7c6ce32/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/katas/IQTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/katas/NthSeries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/katas/GoodVsEvil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B681A47F-B789-4724-BD08-CC0A0213E9B7/3b/9eafb882/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/katas/StringToNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/katas/Anagrams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Constraints/Comparers/EnumerablesComparer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/katas/Sudoku.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/katas/NthSeries.cs" />
+        <option value="$PROJECT_DIR$/katas/Anagrams.cs" />
+        <option value="$PROJECT_DIR$/katas/GoodVsEvil.cs" />
+        <option value="$PROJECT_DIR$/katas/Sudoku.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PSM0tt0w7CFAkYbzEHnzvo9vAR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b2d5b55-6719-42b2-85f8-fb8e4876150d" name="Default Changelist" comment="" />
+      <created>1565862825117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565862825117</updated>
+      <workItem from="1565862827336" duration="1603000" />
+      <workItem from="1565864547216" duration="250000" />
+      <workItem from="1565864814259" duration="3000" />
+      <workItem from="1565865074878" duration="14000" />
+      <workItem from="1565865105036" duration="3000" />
+      <workItem from="1565865191754" duration="34000" />
+      <workItem from="1565865240189" duration="5000" />
+      <workItem from="1565865262970" duration="7000" />
+      <workItem from="1565865382279" duration="526000" />
+      <workItem from="1568824313004" duration="2007000" />
+      <workItem from="1571473227614" duration="1570000" />
+      <workItem from="1572292889102" duration="3046000" />
+      <workItem from="1572453648377" duration="5310000" />
+      <workItem from="1580326571851" duration="846000" />
+    </task>
+    <task id="LOCAL-00001" summary="dodana kata NthSeries">
+      <created>1565865650572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565865650572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kata anagramy">
+      <created>1571473361395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571473361395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="kata: anagramy">
+      <created>1572295845964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572295845964</updated>
+    </task>
+    <task id="LOCAL-00004" summary="kata: GoodVsEvil oraz Sudoku">
+      <created>1572457558151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572457558151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="kata: GoodVsEvil oraz Sudoku">
+      <created>1572457756064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572457756064</updated>
+    </task>
+    <task id="LOCAL-00006" summary="kata: GoodVsEvil oraz Sudoku">
+      <created>1572458626519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572458626519</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="234" />
+    <coverage-tree-state>
+      <expand />
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dodana kata NthSeries" />
+    <MESSAGE value="kata anagramy" />
+    <MESSAGE value="kata: anagramy" />
+    <MESSAGE value="kata: GoodVsEvil oraz Sudoku" />
+    <option name="LAST_COMMIT_MESSAGE" value="kata: GoodVsEvil oraz Sudoku" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="266" key="FileChooserDialogImpl" />
+    <state x="740" y="266" key="FileChooserDialogImpl/1920.1080/2560.1440" />
+    <state x="205" y="95" width="1030" height="729" key="SettingsEditor" />
+    <state x="205" y="95" width="1030" height="729" key="SettingsEditor/1920.1080/2560.1440" />
+    <state x="636" y="253" key="Vcs.Push.Dialog" />
+    <state x="636" y="253" key="Vcs.Push.Dialog/1920.1080/2560.1440" />
+    <state x="623" y="227" key="search.everywhere.popup" />
+    <state x="623" y="227" key="search.everywhere.popup/1920.1080/2560.1440" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

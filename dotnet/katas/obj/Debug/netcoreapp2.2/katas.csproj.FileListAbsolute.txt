@@ -1,0 +1,13 @@
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\katas.deps.json
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\katas.runtimeconfig.json
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\katas.runtimeconfig.dev.json
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\katas.dll
+C:\Programowanie\codewars\dotnet\katas\bin\Debug\netcoreapp2.2\katas.pdb
+C:\Programowanie\codewars\dotnet\katas\obj\Debug\netcoreapp2.2\katas.csprojAssemblyReference.cache
+C:\Programowanie\codewars\dotnet\katas\obj\Debug\netcoreapp2.2\katas.AssemblyInfoInputs.cache
+C:\Programowanie\codewars\dotnet\katas\obj\Debug\netcoreapp2.2\katas.AssemblyInfo.cs
+C:\Programowanie\codewars\dotnet\katas\obj\Debug\netcoreapp2.2\katas.dll
+C:\Programowanie\codewars\dotnet\katas\obj\Debug\netcoreapp2.2\katas.pdb
