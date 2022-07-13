@@ -1,5 +1,7 @@
 package net.dev.codewars
 
+import kotlin.math.abs
+
 fun createPhoneNumber(str: IntArray): String = String.format("(000) 000-0000", str)
 
 fun getCount1(str: String): Int {
@@ -128,3 +130,17 @@ fun points(games: List<String>): Int {
     }
     return sum
 }
+
+
+fun dutyFree(normPrice: Int, discount: Int, hol: Int): Int {
+    val discountPrice = normPrice * (discount / 100.0)
+    val holidayPrice = normPrice - discountPrice
+    val toInt = (hol / holidayPrice).toInt()
+    return toInt
+}
+
+fun makeUpperCase(str: String): String = str.uppercase()
+
+fun checkForFactor(base: Int, factor: Int): Boolean = base % factor == 0
+
+fun twiceAsOld(dadYearsOld: Int, sonYearsOld: Int): Int = abs(dadYearsOld - sonYearsOld * 2)

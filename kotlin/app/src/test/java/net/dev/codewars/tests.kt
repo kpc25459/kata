@@ -101,7 +101,8 @@ class SumOfPositivesTests {
         assertArrayEquals(arrayOf(2, 24, 24), calculateYears(2));
     }
 
-    @Test fun `ten years`() {
+    @Test
+    fun `ten years`() {
         assertArrayEquals(arrayOf(10, 56, 64), calculateYears(10));
     }
 
@@ -125,6 +126,25 @@ class SumOfPositivesTests {
     private fun printAndAssert(expected: Int, games: List<String>) {
         println("Testing for games: $games")
         assertEquals(expected, points(games))
+    }
+
+
+    @Test
+    fun dutyFreeTests() {
+        //assertEquals(166, dutyFree(12, 50, 1000))
+        assertEquals(294, dutyFree(17, 10, 500))
+        assertEquals(357, dutyFree(24, 35, 3000))
+        assertEquals(60, dutyFree(377, 40, 9048))
+        assertEquals(10, dutyFree(2479, 51, 13390))
+    }
+
+    @Test
+    fun twiceAsOldTests() {
+        assertEquals(22, twiceAsOld(36,7))
+        assertEquals(5, twiceAsOld(55,30))
+        assertEquals(0, twiceAsOld(42,21))
+        assertEquals(20, twiceAsOld(22,1))
+        assertEquals(29, twiceAsOld(29,0))
     }
 }
 
