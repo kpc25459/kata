@@ -144,3 +144,19 @@ fun makeUpperCase(str: String): String = str.uppercase()
 fun checkForFactor(base: Int, factor: Int): Boolean = base % factor == 0
 
 fun twiceAsOld(dadYearsOld: Int, sonYearsOld: Int): Int = abs(dadYearsOld - sonYearsOld * 2)
+
+fun feast(beast: String, dish: String): Boolean = beast.first() == dish.first() && beast.last() == dish.last()
+
+fun well(x: Array<String>): String = when (x.count { it == "good" }) {
+    in 1..2 -> "Publish!"
+    in 2..Int.MAX_VALUE -> "I smell a series!"
+    else -> "Fail!'"
+}
+
+fun include(arr: IntArray, item: Int): Boolean = arr.contains(item)
+
+fun litres(time: Double): Int = (time * 0.5).toInt()
+
+fun sum(mixed: List<Any>): Int = mixed.fold(0) { acc, b -> acc + if (b is Int) b else (b as String).toInt() }
+
+fun past(h: Int, m: Int, s: Int): Int = 1000 * (h * 60 * 60 + m * 60 + s)

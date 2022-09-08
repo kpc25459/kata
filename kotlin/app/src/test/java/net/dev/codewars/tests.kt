@@ -140,11 +140,66 @@ class SumOfPositivesTests {
 
     @Test
     fun twiceAsOldTests() {
-        assertEquals(22, twiceAsOld(36,7))
-        assertEquals(5, twiceAsOld(55,30))
-        assertEquals(0, twiceAsOld(42,21))
-        assertEquals(20, twiceAsOld(22,1))
-        assertEquals(29, twiceAsOld(29,0))
+        assertEquals(22, twiceAsOld(36, 7))
+        assertEquals(5, twiceAsOld(55, 30))
+        assertEquals(0, twiceAsOld(42, 21))
+        assertEquals(20, twiceAsOld(22, 1))
+        assertEquals(29, twiceAsOld(29, 0))
+    }
+
+    @Test
+    fun testLiters() {
+        assertEquals(1, litres(2.0))
+        assertEquals(0, litres(1.4))
+        assertEquals(6, litres(12.3))
+        assertEquals(0, litres(0.82))
+        assertEquals(5, litres(11.8))
+        assertEquals(893, litres(1787.0))
+        assertEquals(0, litres(0.0))
+    }
+
+    @Test
+    public fun test_1() {
+        assertEquals(10, sum(listOf(5, "5")));
+    }
+
+    @Test
+    public fun test_2() {
+        assertEquals(22, sum(listOf(9, 3, "7", "3")));
+    }
+
+    @Test
+    public fun test_3() {
+        assertEquals(42, sum(listOf("5", "0", 9, 3, 2, 1, "9", 6, 7)));
+    }
+
+    @Test
+    public fun test_4() {
+        assertEquals(41, sum(listOf("3", 6, 6, 0, "5", 8, 5, "6", 2, "0")));
+    }
+
+    @Test
+    public fun test_5() {
+        assertEquals(45, sum(listOf("1", "5", "8", 8, 9, 9, 2, "3")));
+    }
+
+    @Test
+    public fun test_6() {
+        assertEquals(41, sum(listOf("3", 6, 6, 0, "5", 8, 5, "6", 2, "0")));
+    }
+
+    @Test
+    public fun test_7() {
+        assertEquals(61, sum(listOf(8, 0, 0, 8, 5, 7, 2, 3, 7, 8, 6, 7)));
+    }
+
+    @Test
+    fun pastTests() {
+        assertEquals(61000, past(0, 1, 1))
+        assertEquals(3661000, past(1, 1, 1))
+        assertEquals(0, past(0, 0, 0))
+        assertEquals(3601000, past(1, 0, 1))
+        assertEquals(3600000, past(1, 0, 0))
     }
 }
 
