@@ -160,3 +160,14 @@ fun litres(time: Double): Int = (time * 0.5).toInt()
 fun sum(mixed: List<Any>): Int = mixed.fold(0) { acc, b -> acc + if (b is Int) b else (b as String).toInt() }
 
 fun past(h: Int, m: Int, s: Int): Int = 1000 * (h * 60 * 60 + m * 60 + s)
+
+fun getAscii(c: Char): Int = c.code
+
+fun replace(s: String): String {
+    val z = "aeiouAEIOU".toCharArray()
+    return buildString {
+        s.forEach { append(if (it in z) '!' else it) }
+    }
+}
+
+fun century(number: Int): Int = kotlin.math.ceil(number / 100.0).toInt()

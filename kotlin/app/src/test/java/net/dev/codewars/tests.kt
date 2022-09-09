@@ -201,5 +201,21 @@ class SumOfPositivesTests {
         assertEquals(3601000, past(1, 0, 1))
         assertEquals(3600000, past(1, 0, 0))
     }
+
+    @Test
+    fun testFixed() {
+        assertEquals("H!!", replace("Hi!"));
+        assertEquals("!H!! H!!", replace("!Hi! Hi!"));
+        assertEquals("!!!!!", replace("aeiou"));
+        assertEquals("!BCD!", replace("ABCDE"));
+    }
+
+    @Test fun century() {
+        assertEquals(18, century(1705));
+        assertEquals(19, century(1900));
+        assertEquals(17, century(1601));
+        assertEquals(20, century(2000));
+        assertEquals(1,  century(89));
+    }
 }
 
